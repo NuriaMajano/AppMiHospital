@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#8DEB5A</color>
+    <color name="colorPrimaryDark">#3D5AFE</color>
+    <color name="colorAccent">#3D5AFE</color>
+    <color name="colorSelected">#FF0000</color>
+    <color name="colorFondoImpar1">#17A5C5</color>
+    <color name="colorFondoImpar2">#C8ECFC</color>
+    <color name="colorFondoFragment">#C8ECFC</color>
+    <color name="colorFondoPar1">#DB7020</color>
+    <color name="colorFondoPar2">#ECAD90</color>
+    <color name="colorVerde">#8DEB5A</color>
+    <color name="colorAzuk">#3D5AFE</color>
+    <color name="colorRowAgenda">#1E88E5</color>
+    <color name="colorFondo">#FAF2BB</color>
+    <color name="colorNegro">#000000</color>
+</resources>

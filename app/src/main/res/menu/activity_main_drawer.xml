@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+                <item
+                    android:id="@+id/nav_inicio"
+                    android:visible="false"
+                    android:title="Personal"
+                    android:icon="@drawable/personal"/>
+                <item
+                    android:id="@+id/nav_pacientes"
+                    android:visible="false"
+                    android:title="Pacientes"
+                    android:icon="@drawable/paciente"/>
+                <item
+                    android:id="@+id/nav_materialsanitario"
+                    android:title="Material Sanitario"
+                    android:icon="@drawable/material"/>
+                <item
+                    android:id="@+id/nav_habitacioneslibres"
+                    android:title="Habitaciones libres"
+                    android:icon="@drawable/habitacion"/>
+                <item
+                    android:id="@+id/nav_citas"
+                    android:visible="false"
+                    android:title="Citas"
+                    android:icon="@drawable/cita"/>
+                <item
+                    android:id="@+id/nav_mapa"
+                    android:title="Localización"
+                    android:icon="@drawable/place"/>
+
+    <item android:title="Sesión">
+        <menu>
+            <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_salir"
+            android:title="Salir"
+            android:icon="@drawable/salir"/>
+            </group>
+        </menu>
+    </item>
+</menu>

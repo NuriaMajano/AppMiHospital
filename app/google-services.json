@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "793218237213",
+    "firebase_url": "https://mihospital.firebaseio.com",
+    "project_id": "mihospital",
+    "storage_bucket": "mihospital.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793218237213:android:a1e80cc8d8c3462a9ad7f4",
+        "android_client_info": {
+          "package_name": "net.azarquiel.mihospital"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793218237213-7earft7s8l1n7271hidelc9ml294rmen.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.azarquiel.mihospital",
+            "certificate_hash": "8f2b7d80a2da240a0aec20c3dc3ae306db06ce3a"
+          }
+        },
+        {
+          "client_id": "793218237213-qjv8g38oie36q756r65tj357v8jb775q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiNrFx8ywNY7NWh6HCeczsS2tmNx9-qSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793218237213-qjv8g38oie36q756r65tj357v8jb775q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
